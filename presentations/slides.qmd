@@ -3,35 +3,17 @@ format:
   revealjs:
     theme: themes/uu.scss
     logo: images/UU_logo_2021_EN_RGB.png
-    footer: "John Doe"
+    footer: "Dawa Ometto & Jelle Treep"
 ---
 
-# Presentation title {data-background-color="#FFCD00"}
+# Low-barrier access to cloud computing on ResearchCloud {data-background-color="#FFCD00"}
 
 ::: {.r-stack}
-Presentation subtitle
+a case study
 :::
 
 ::: {.footer}
 :::
-
-# {data-background-color="#FFCD00"}
-
-:::::::::::::: {.columns}
-
-::: {.column width="40%"}
-
-::: {.subtitle}
-
-Title
-
-:::
-:::
-::: {.column width="60%"}
-![](images/image.jpg){fig-align="right" width="300"}
-:::
-::::::::::::::
-
 
 ## Quarto
 ::: {.theme-section}
