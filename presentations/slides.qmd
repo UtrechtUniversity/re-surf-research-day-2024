@@ -15,58 +15,90 @@ a case study
 ::: {.footer}
 :::
 
-## Research Data Management Services @ Utrecht University
+## Introduction
 ::: {.theme-section}
-Research IT, Yoda, Engineering, Applications (github), HPC support
+
+Research Data Management Services @ Utrecht University:
+
+- Research IT & Engineering
+- Yoda
+- Applications (GitHub)
+- &rarr; HPC support & access
+
+:::
+
+## Introduction
+::: {.theme-section}
+
+- Large increase in demand for HPC.
+- No longer just for clusters, but also for Virtual Research Environments (VRE)!
+- At UU, we meet this demand using SURF services:
+    - Snellius
+    - ResearchCloud (VRE)
+    - RCSS contracts
 
 :::
 
 ## Research Capacity Computing Service
 ::: {.theme-section}
+
 Research Capacity Computing Service (RCCS) is the service that gives SURF members directly access to its compute facilities. The service is aimed at lowering the barriers for IT managers and offers flexibility, scalability and expertise based on a pay-per-use model.
 
 - Snellius
-- Surf Research Cloud
+- SURF Research Cloud
 
-Tariff: 1.000 RCCS-credits - 33,14 euro
-~0,03 euro per CPU hour on Research Cloud
-~0,025 euro per CPU hour on Snellius
-Access to commercial cloud 
+:::
+
+## Research Capacity Computing Service
+::: {.theme-section}
+
+Tariff:
+
+- 1.000 RCCS-credits - 33,14 euro
+- ~0,03 euro per CPU hour on Research Cloud
+- ~0,025 euro per CPU hour on Snellius
+- Access to commercial cloud (varying cost)
 
 :::
 
 ## How do we organize access?
 ::: {.theme-section}
-website
-intake with engineer (30 minutes)
-access with 10.000 credits
+
+- Website (~TODO link!)
+- Intake with engineer (30 minutes)
+- Starting budget of 10.000 credits
+
 :::
 
-## Intake
+## How do we organize access?
 ::: {.theme-section}
 
-30 minutes
-check code and compute requirements
-advice on platform
-request account
+Intake meeting:
+
+* 30 minutes
+* Check code and compute requirements
+* Advice on platform
+* Request account
 :::
 
 ## Support
 
 ::: {.theme-section}
-- by RSEs
+
+Support provided by Research Engineers:
+
 - Getting started workshop (SRC)
 - Catalog development (SRC)
 - Basic user support (Snellius and SRC)
-- Walk in hours
+- Weekly walk-in hours
 :::
 
 ## History
 ::: {.theme-section}
-RCCS @ UU runs for ~5 years
-Kees van Eijden
-From ~10 users to >100 users (1 every 2 months to 5 per week (peak))
-From 100.000 credits per year to 1.000.000 # TODO check this
+
+- RCCS @ UU runs for ~5 years (Kees van Eijden)
+- From ~10 users to >100 users (1 every 2 months to 5 per week (peak))
+- From 100.000 credits per year to 1.000.000 # TODO check this
 
 :::
 
