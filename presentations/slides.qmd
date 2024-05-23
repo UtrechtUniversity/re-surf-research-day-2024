@@ -122,9 +122,25 @@ Insert numbers on CPU/GPU usage
 
 ## What do we learn from this?
 
+Large demand for flexible HPC solutions at small-medium scale (VRE) as well as large scale (Snellius).
 
+Success factors at UU:
 
+- Low-barrier signup
+- Low-barrier user support
+- Hands-on engineering support
+- Good relations with IT groups at faculties
 
+Most importantly:
+
+- Dedicated team of engineers, developers, admins (~TODO number of people/fte?)
+
+## Future challenges
+
+Challenges when scaling up further:
+
+- Ensuring enough user support and intake capacity, together with faculties
+- Billing recurring large users internally
 
 # {data-background-color="#FFCD00"}
 
