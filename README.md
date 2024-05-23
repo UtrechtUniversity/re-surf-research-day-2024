@@ -5,8 +5,6 @@ This repository contains the slides for the presentation at the Surf Research Da
 
 The presentation is created with Quarto and based on the [UU Quarto Presentation Template](https://github.com/UtrechtUniversity/uu-quarto-presentation-template).
 
-This repository contains [UU themed presentation example slides] written in `.qmd` files.
-
 [Slides](https://utrechtuniversity.github.io/re-surf-research-day-2024/slides)
 
 ## Contact
