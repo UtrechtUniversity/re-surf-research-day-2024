@@ -3,13 +3,21 @@ format:
   revealjs:
     theme: themes/uu.scss
     logo: images/UU_logo_2021_EN_RGB.png
-    footer: "Dawa Ometto & Jelle Treep"
+    footer: https://edu.nl/pthd4
 ---
 
 # Low-barrier access to cloud computing on ResearchCloud {data-background-color="#FFCD00"}
 
 ::: {.r-stack}
 a case study
+:::
+
+::: {.r-stack}
+<br/>
+:::
+
+::: {.r-stack}
+Jelle Treep & Dawa Ometto
 :::
 
 ::: {.footer}
@@ -70,22 +78,11 @@ Costs:
 
 ## How do we organize access?
 
-![](images/website.png){width=80%}
+![](images/website.png){width=75%}
 
 - Intake with engineer (30 minutes)
 - Starting budget of 10.000 credits
-
-
-## How do we organize access?
-::: {.theme-section}
-
-Intake meeting:
-
-* 30 minutes
-* Check code and compute requirements
-* Advice on platform
-* Request account
-:::
+- &rarr; Onboarding time ~2 days
 
 ## Support
 
@@ -104,7 +101,8 @@ Support provided by Research Engineers:
 :::: {.columns}
 ::: {.column width=50%}
 - RCCS @ UU runs for ~8 years (Kees van Eijden)
-- From ~10 users to >100 users (1 every 2 months to 5 per week (peak))
+- From ~10 users to >100 users
+    - 1 every 2 months to 5 per week (peak)
 :::
 ::: {.column width=50%}
 ![RCCS reports](images/yearly_usage.png)
@@ -148,34 +146,53 @@ Support provided by Research Engineers:
 ##
 
 ::: {.theme-section}
-![NWO website](images/small_compute.png)
+![](images/small_compute.png)
+:::
+
+::: {.theme-section}
+Source: [NWO](https://www.nwo.nl/en/researchprogrammes/computing-time-on-national-computer-facilities)
 :::
 
 
 ## What do we learn from this?
 
-- Large demand for flexible HPC solutions at small-medium (VRE) as well as large (Snellius) scale.
-- RCSS starting budgets help researchers to conduct exploratory studies, often leading to larger projects.
+- Large and growing demand for flexible HPC solutions
+    - Small-medium (VRE) as well as large (Snellius) scale.
+    - Across all faculties.
+- RCCS starting budgets help researchers to conduct exploratory studies, often leading to larger projects.
+    - 15 million credits granted after starting budget!
 
 ## What do we learn from this?
 
 Success factors at UU:
 
-- Low-barrier signup
-- Low-barrier user support
-- Hands-on engineering support
+- Close cooperation with SURF
+- Low-barrier onboarding & support
+- Engineering support
+  - Reliable and reusable VRE environments
+  - Hands-on customization
 - Good relations with IT groups at faculties
+
+## What do we learn from this?
 
 Most importantly:
 
-- Dedicated team of engineers, developers, admins (~TODO number of people/fte?)
+- Support team of engineers, developers, admins
+  - since end of 2023: 1 dedicated engineer
 
 ## Future challenges
 
 Challenges when scaling up further:
 
 - Ensuring enough user support and intake capacity, together with faculties
+- Meeting needs for custom engineering
 - Billing recurring large users internally
+
+## Links
+
+- [HPC Support](https://www.uu.nl/en/research/research-data-management/tools/software-and-computing/high-performance-and-cloud-computing) @ UU [Research Data Management Services](https://www.uu.nl/en/research/research-data-management)
+- [SURF RCCS Tariffs](https://www.uu.nl/en/research/research-data-management)
+
 
 # {data-background-color="#FFCD00"}
 
