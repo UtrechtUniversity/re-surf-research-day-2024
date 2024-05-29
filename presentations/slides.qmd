@@ -50,11 +50,7 @@ Research Data Management Services @ Utrecht University:
 ## Research Capacity Computing Service
 ::: {.theme-section}
 
-<br>
-
 RCCS gives institutes direct access to SURFs compute facilities:
-
-<br>
 
 - Lowering barriers 
 - Snellius & SURF Research Cloud
