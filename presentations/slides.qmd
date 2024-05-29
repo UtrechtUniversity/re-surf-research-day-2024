@@ -35,24 +35,31 @@ Research Data Management Services @ Utrecht University:
 - At UU, we meet this demand using SURF services:
     - Snellius
     - ResearchCloud (VRE)
-    - RCSS contracts
+    - RCCS contracts
 
 :::
 
 ## Research Capacity Computing Service
 ::: {.theme-section}
 
-Research Capacity Computing Service (RCCS) is the service that gives SURF members directly access to its compute facilities. The service is aimed at lowering the barriers for IT managers and offers flexibility, scalability and expertise based on a pay-per-use model.
+<br>
 
-- Snellius
-- SURF Research Cloud
+RCCS gives institutes direct access to SURFs compute facilities:
+
+<br>
+
+- Lowering barriers 
+- Snellius & SURF Research Cloud
+- Expertise 
+- pay-per-use model
+
 
 :::
 
 ## Research Capacity Computing Service
 ::: {.theme-section}
 
-Tariff:
+Costs:
 
 - 1.000 RCCS-credits - 33,14 euro
 - ~0,03 euro per CPU hour on Research Cloud
@@ -62,13 +69,12 @@ Tariff:
 :::
 
 ## How do we organize access?
-::: {.theme-section}
 
-- Website (~TODO link!)
+![](images/website.png){width=80%}
+
 - Intake with engineer (30 minutes)
 - Starting budget of 10.000 credits
 
-:::
 
 ## How do we organize access?
 ::: {.theme-section}
@@ -95,30 +101,56 @@ Support provided by Research Engineers:
 
 ## History
 ::: {.theme-section}
-
-- RCCS @ UU runs for ~5 years (Kees van Eijden)
+:::: {.columns}
+::: {.column width=50%}
+- RCCS @ UU runs for ~8 years (Kees van Eijden)
 - From ~10 users to >100 users (1 every 2 months to 5 per week (peak))
-- From 100.000 credits per year to 1.000.000 # TODO check this
-
+:::
+::: {.column width=50%}
+![RCCS reports](images/yearly_usage.png)
+:::
+::::
 :::
 
-## Faculties
+## Research Cloud projects
 
 ::: {.theme-section}
-Insert numbers on uptake in the faculties
+
+:::: {.columns}
+::: {.column width=50%}
+![RCCS reports](images/src_budgets.png){width=100%}
+:::
+::: {.column width=50%}
+<br>
+<br>
+
+| Faculty | Projects |
+|---------|----------|
+| Geosciences | 16 |
+| Science | 28 |
+| Humanities | 20 |
+| Social Sciences | 17 |
+| Law and Economics | 13 |
+| Veterinary Medicine | 13 |
+
+: {.striped}
+
+:::
+::::
 :::
 
-## Small compute applications
+## CPU vs. GPU on Research Cloud
 
 ::: {.theme-section}
-Insert figure on UU applications from 2021
+![RCCS reports](images/monthly_usage.png)
 :::
 
-## CPU/GPU usage?
+##
 
 ::: {.theme-section}
-Insert numbers on CPU/GPU usage
+![NWO website](images/small_compute.png)
 :::
+
 
 ## What do we learn from this?
 

@@ -100,3 +100,11 @@ section.has-dark-background a, section.has-dark-background a:hover {
   top: unset !important;
   color: #000000 !important;
 }
+
+/*-- scss:rules --*/
+.table-striped {
+  font-size: smaller;
+  > tbody > tr:nth-of-type(odd) > * {
+    background-color: #f2f2f2d5;
+  }
+}
