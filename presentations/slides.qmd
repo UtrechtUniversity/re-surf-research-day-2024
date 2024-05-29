@@ -188,7 +188,7 @@ Challenges when scaling up further:
 
 - [HPC Support](https://www.uu.nl/en/research/research-data-management/tools/software-and-computing/high-performance-and-cloud-computing) @ UU [Research Data Management Services](https://www.uu.nl/en/research/research-data-management)
 - [SURF RCCS Tariffs](https://www.uu.nl/en/research/research-data-management)
-
+- [This presentation on GitHub](https://github.com/UtrechtUniversity/re-surf-research-day-2024)
 
 # {data-background-color="#FFCD00"}
 
