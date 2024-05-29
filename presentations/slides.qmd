@@ -154,7 +154,10 @@ Support provided by Research Engineers:
 
 ## What do we learn from this?
 
-Large demand for flexible HPC solutions at small-medium scale (VRE) as well as large scale (Snellius).
+- Large demand for flexible HPC solutions at small-medium (VRE) as well as large (Snellius) scale.
+- RCSS starting budgets help researchers to conduct exploratory studies, often leading to larger projects.
+
+## What do we learn from this?
 
 Success factors at UU:
 
