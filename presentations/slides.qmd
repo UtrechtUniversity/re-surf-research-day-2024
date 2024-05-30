@@ -152,14 +152,17 @@ Source: [NWO](https://www.nwo.nl/en/researchprogrammes/computing-time-on-nationa
 
 ## What do we learn from this?
 
+::: {.theme-section}
 - Large and growing demand for flexible HPC solutions
     - Small-medium (VRE) as well as large (Snellius) scale.
     - Across all faculties.
 - RCCS starting budgets help researchers to conduct exploratory studies, often leading to larger projects.
-    - 15 million credits granted after starting budget!
+    - 15 million credits granted after starting budget! (in 2023)
+:::
 
 ## What do we learn from this?
 
+::: {.theme-section}
 Success factors at UU:
 
 - Close cooperation with SURF
@@ -169,14 +172,22 @@ Success factors at UU:
   - Hands-on customization
 - Good relations with IT groups at faculties
 
+:::
+
 ## What do we learn from this?
+
+::: {.theme-section}
 
 Most importantly:
 
 - Support team of engineers, developers, admins
   - since end of 2023: 1 dedicated engineer
 
+:::
+
 ## Future challenges
+
+::: {.theme-section}
 
 Challenges when scaling up further:
 
@@ -184,11 +195,17 @@ Challenges when scaling up further:
 - Meeting needs for custom engineering
 - Billing recurring large users internally
 
+:::
+
 ## Links
+
+::: {.theme-section}
 
 - [HPC Support](https://www.uu.nl/en/research/research-data-management/tools/software-and-computing/high-performance-and-cloud-computing) @ UU [Research Data Management Services](https://www.uu.nl/en/research/research-data-management)
 - [SURF RCCS Tariffs](https://www.uu.nl/en/research/research-data-management)
 - [This presentation on GitHub](https://github.com/UtrechtUniversity/re-surf-research-day-2024)
+
+:::
 
 # {data-background-color="#FFCD00"}
 

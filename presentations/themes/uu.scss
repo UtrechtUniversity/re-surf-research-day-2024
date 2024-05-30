@@ -1,9 +1,10 @@
 /*-- scss:defaults --*/
 // importing fonts
 @import url('https://fonts.googleapis.com/css?family=Merriweather:wght@300&family=Open+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@300;800&display=swap');
 
 // fonts
-$font-family-sans-serif: 'Open Sans', Tahoma, sans-serif !default;
+$font-family-sans-serif: 'Nunito', Tahoma, sans-serif !default;
 
 // headings
 $presentation-heading-font: 'Merriweather',  Tahoma, sans-serif  !default;
